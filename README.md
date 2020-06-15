@@ -4,6 +4,7 @@ To create RShiny application for timely influence of Indian government on employ
 •	The RShiny application consists of ui.R and server.R
 •	To create a title panel
 •	Below the title panel, 7 tabs will be created namely,
+  
   o	Productivity
   o	Employment and Empanelled
   o	Monetry Influence
@@ -11,6 +12,7 @@ To create RShiny application for timely influence of Indian government on employ
   o	Labour and Employment
   o	Farmer’s Suicide
   o	Vigilence
+
 •	In the Productivity tab, data about 3 leading airplane manufacturing industries will be displayed. The selection can be made using radio buttons.
 •	In the Employment and empanelled tab, employees of central government and no. of employees who got retired and empanelled are shown in bar graph.
 •	In the monetary influence tab, the expenditure, salary and allowance of MTNL are shown.
