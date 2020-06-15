@@ -1,7 +1,7 @@
 # TIMELY-INFLUENCE-OF-INDIAN-GOVERNMENT-ON-EMPLOYEES-OF-VARIOUS-MINISTRIES
 To create RShiny application for timely influence of Indian government on employees of various ministries using ui.R and Server.R
 
-•	The RShiny application consists of ui.R and server.R To create a title panel. Below the title panel, 7 tabs will be created namely,
+The RShiny application consists of ui.R and server.R To create a title panel. Below the title panel, 7 tabs will be created namely,
   
   o	Productivity
   
